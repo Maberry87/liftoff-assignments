@@ -17,5 +17,6 @@ For this assignment, you'll create some initial plans for your project.
 https://trello.com/b/Qz9PF7P2/liftoff-project-board
 
 ### Project Repo Link
+https://github.com/Derek-s-Group-LaunchCode-Liftoff/calendar-of-destiny
 
 
