@@ -1,7 +1,5 @@
 # Project Outline
-This project will be a visual calendar application to help users plan their day, week, or month. Event hosts will be able to create, edit, and delete/cancel events and invite attendees to add the event onto their schedules. Users will also be able to create daily to-do lists and keep track of tasks they have accomplished. The calendar can be personalized with use of some public APIs to add daily random facts or photos that enhance user experience by brightening their day.
-
-We decided to make this because we wanted a personalized experience using a calendar with the added fun of dog photos, etc. This application will be a straightforward calendar application that is streamlined for easy use in collaboration.
+For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
